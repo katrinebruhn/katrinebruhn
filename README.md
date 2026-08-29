@@ -45,6 +45,7 @@ I'm currently looking for an internship within frontend and web development, whe
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/katrine-bruhn-75b8b0431/) 
 - [Portfolio](https://katrinebruhn.github.io/portfolio)
+- [CV](https://katrinebruhn.github.io/portfolio/cv/katrine-bruhn-cv.pdf)
 
 
 <!--
