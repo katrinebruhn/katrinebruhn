@@ -27,7 +27,7 @@ I enjoy combining design and code to create user-friendly and visually engaging 
 
 ---
 
-## Currently Learning
+## Currently Improving
 I'm currently improving my skills in:
 
 - JavaScript
