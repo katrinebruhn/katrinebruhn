@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Katrine Bruhn
 
-I'm currently studying Multimedia Design at Copenhagen School of Design and Technology (EK), with a particular interest in frontend development, web design and UX/UI.
+I'm studying Multimedia Design at Copenhagen School of Design and Technology (EK), with a particular interest in frontend development, web design and UX/UI.
 
 I enjoy combining design and code to create user-friendly and visually engaging digital experiences.
 
