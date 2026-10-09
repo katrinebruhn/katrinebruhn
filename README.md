@@ -40,7 +40,7 @@ I'm currently improving my skills in:
 ---
 
 ## Looking for an Internship
-I'm looking for an internship within frontend and web development, where I can develop my skills, gain practical experience and contribute to a creative team.
+I'm currently looking for an internship within multimedia design, where I can work with web development, UX/UI, digital design and other creative projects. I'm curious, eager to learn and excited to gain practical experience while developing my skills.
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/katrine-bruhn-75b8b0431/) 
